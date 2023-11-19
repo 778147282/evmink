@@ -57,5 +57,5 @@ jobs:
           tag: "auto"
           body: |
             - Github Actions自动打包
-            - hdd.cm 推特低至2毛
+            - 2024集中营
           artifacts: "window/*.exe"
