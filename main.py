@@ -1,6 +1,3 @@
-//2024暴富 666
-
-
 from web3 import AsyncWeb3
 import httpx
 import asyncio
