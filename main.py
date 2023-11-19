@@ -1,3 +1,6 @@
+//2024暴富 666
+
+
 from web3 import AsyncWeb3
 import httpx
 import asyncio
@@ -68,7 +71,7 @@ async def mint(to, rpc, private_key, gasPrice, maxFeePerGas, maxPriorityFeePerGa
 
 
 if __name__ == '__main__':
-    print('hdd.cm, 推特低至2毛')
+    print('2024集中营')
     _to = input('输入地址(打到那个号)：').strip()
     _private_key = input('输入私钥(有gas的小号)：').strip()
     _rpc = input('输入RPC：').strip()
